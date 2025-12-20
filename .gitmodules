@@ -10,3 +10,7 @@
 	path = glm
 	url = ../../g-truc/glm
 	branch = master
+[submodule "ktx"]
+	path = ktx
+	url = ../../cpp-port/ktx
+	branch = main
